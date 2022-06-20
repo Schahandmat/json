@@ -2,7 +2,9 @@
 
 
 1) img_1
-2) img _3
-3) img_4
-4) img_5
-5) img_6
+2) img_2
+3) img_3
+4) img_4
+5) img_5
+7) img_6
+8) Img_7
